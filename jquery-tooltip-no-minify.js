@@ -1,0 +1,2 @@
+//Tooltip - titles img ( seo ) : display none if mouse hover - @see : https://github.com/madjeek-web/tooltips-display-none-img-hover-mouse
+jQuery(document).ready((function(t){t("img").mouseenter((function(){let e=t(this).attr("title");t(this).attr("ld_title",e),t(this).attr("title","")})).mouseleave((function(){let e=t(this).attr("ld_title");t(this).attr("title",e),t(this).removeAttr("ld_title")}))}));
