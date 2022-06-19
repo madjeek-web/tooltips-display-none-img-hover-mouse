@@ -10,3 +10,5 @@ Tooltips - write the titles of the images ( in addition to size and alt...) ( im
 ## Tooltips - write the titles of the images ( in addition to size and alt...) ( important for SEO ) but no display of the text information (titles images therefore ) on the web page at the passage of the mouse over the titled images - solutions
 ## JQUERY
 ##SEE : FILES
+
+## COMBO WITH : https://github.com/madjeek-web/link-titles-no-tooltip-tooltip-info-when-mouse-moves---hover---hide---display-none
