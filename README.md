@@ -13,5 +13,3 @@
 
 ##COMBO WITH : https://github.com/madjeek-web/link-titles-no-tooltip-tooltip-info-when-mouse-moves---hover---hide---display-none
 ___
-
-![madjeek-1200px-og](https://user-images.githubusercontent.com/83957788/174204965-cd246cba-6142-49c4-b722-eee34685e753.jpg)
