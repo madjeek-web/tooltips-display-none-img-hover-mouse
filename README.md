@@ -15,9 +15,6 @@
       });
   });
 ```
-
-![cats-no-tooltip](https://user-images.githubusercontent.com/83957788/174462019-bdbf9f6d-db8b-48bc-a1f0-2908ed6fe5dd.jpg)
-
 ##no Infobulles
 ##.tooltip('hide') solution : no meta data : JQUERY
 
