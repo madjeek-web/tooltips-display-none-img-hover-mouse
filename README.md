@@ -36,5 +36,6 @@
 ##JQUERY
 ##SEE : FILES
 
+#You can also combine this code with this one :
 ##COMBO WITH : https://github.com/madjeek-web/link-titles-no-tooltip-tooltip-info-when-mouse-moves---hover---hide---display-none
 ___
