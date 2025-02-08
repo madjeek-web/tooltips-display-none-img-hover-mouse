@@ -36,6 +36,24 @@
 ##no Infobulles
 ##.tooltip('hide') solution : no meta data : JQUERY
 
+```htlm
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tooltip Example</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="path/to/your/script.js"></script> <!-- Include your JavaScript file here -->
+</head>
+<body>
+    <h1>Image Tooltip Example</h1>
+    <img src="image1.jpg" title="This is the first image" alt="Image 1">
+    <img src="image2.jpg" title="This is the second image" alt="Image 2">
+    <img src="image3.jpg" title="This is the third image" alt="Image 3">
+</body>
+</html>
+```
 
 ##Tooltips - write the titles of the images ( in addition to size and alt...) ( important for SEO ) but no display of the text information (titles images therefore ) on #the web page at the passage of the mouse over the titled images - solutions
 ##JQUERY
