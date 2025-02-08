@@ -11,6 +11,11 @@
 #titles on the screen (for visitors/users), while still keeping the unique title within the HTML code itself (to optimize SEO).
 #Place the JS code in a .js file and insert it in the head section of your web pages, as well as below the jQuery libraries (they must load first).
 
+#<head>
+#<script type="application/javascript" defer="defer" src="https://azerty.com/azerty-js/jquery.js"></script>
+#<script data-module="Tooltip titles img(seo):display none if mouse hover" type="application/javascript" defer="defer" src="https://azerty.com/azerty-js/tooltip-no-img-titles.js"></script>
+#</head>
+
 #tooltips-display-none-img-hover-mouse
 #Tooltips - write the titles of the images ( in addition to size and alt...) ( important for SEO ) but no display of the text information
 
