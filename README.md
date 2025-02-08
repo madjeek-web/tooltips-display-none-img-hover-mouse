@@ -10,6 +10,7 @@
 #You can plan to create your own style for displaying titles on images (in CSS, for example). Or simply to have complete freedom: not to display
 #titles on the screen (for visitors/users), while still keeping the unique title within the HTML code itself (to optimize SEO).
 #Place the JS code in a .js file and insert it in the head section of your web pages, as well as below the jQuery libraries (they must load first).
+#The code works with: jquery-3.6.0.min.js
 
 #<head>
 #<script type="application/javascript" defer="defer" src="https://azerty.com/azerty-js/jquery.js"></script>
