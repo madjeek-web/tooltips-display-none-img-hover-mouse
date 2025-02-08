@@ -9,6 +9,7 @@
 #you want to handle the display in a different way.
 #You can plan to create your own style for displaying titles on images (in CSS, for example). Or simply to have complete freedom: not to display
 #titles on the screen (for visitors/users), while still keeping the unique title within the HTML code itself (to optimize SEO).
+#Place the JS code in a .js file and insert it in the head section of your web pages, as well as below the jQuery libraries (they must load first).
 
 #tooltips-display-none-img-hover-mouse
 #Tooltips - write the titles of the images ( in addition to size and alt...) ( important for SEO ) but no display of the text information
